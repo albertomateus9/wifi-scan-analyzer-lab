@@ -1,0 +1,11 @@
+[project]
+name = "wifi-scan-analyzer-lab"
+version = "0.1.0"
+description = "Safe Wi-Fi analysis lab using synthetic SSID, channel, RSSI, and security data instead of live scanning in CI."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Alberto Mateus P. da Gama" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

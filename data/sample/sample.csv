@@ -1,0 +1,5 @@
+ssid,channel,rssi_dbm,security
+LabNet-A,1,-48,WPA2
+LabNet-B,6,-62,WPA3
+Guest-Lab,11,-71,Captive
+Maker-IoT,6,-67,WPA2
